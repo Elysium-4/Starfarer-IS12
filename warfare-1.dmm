@@ -1,0 +1,565 @@
+"aa" = (/obj/item/clothing/suit/armor/vox_scrap,/turf/space,/area/space)
+"ag" = (/obj/structure/poster/hyshim,/turf/simulated/wall/titanium,/area/warfare/homebase/blue)
+"ah" = (/obj/effect/landmark/start{name = "Red Medic"},/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"ak" = (/obj/effect/landmark/start{name = "Red Squad Leader"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"al" = (/obj/structure/defensive_barrier,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"ao" = (/obj/item/gun/energy/taser,/turf/simulated/floor/tiled,/area/space)
+"ap" = (/obj/structure/grille,/turf/simulated/floor/plating,/area/space)
+"ar" = (/obj/structure/table/rack,/obj/item/device/boombox,/obj/effect/floor_decal/newcorner/red/quarter,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"aB" = (/obj/structure/table/steel_reinforced,/obj/item/toy/figure/bartender,/turf/simulated/floor/tiled,/area/space)
+"bb" = (/obj/effect/floor_decal/newcorner/yellow{dir = 8},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"bi" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"bn" = (/turf/simulated/floor/tiled/airless,/area/space)
+"bs" = (/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"by" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"bK" = (/obj/structure/poster/happiness,/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/blue/two)
+"bN" = (/obj/structure/table/steel_reinforced,/obj/item/reagent_containers/food/drinks/bottle/cognac,/turf/simulated/floor/wood,/area/space)
+"cb" = (/turf/simulated/wall/concrete,/area/warfare/battlefield/capture_point/red/one)
+"cQ" = (/obj/structure/torchwall{dir = 8; icon_state = "torchwall0"},/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/mid)
+"cT" = (/obj/structure/table/steel_reinforced,/obj/item/device/cassette/tape2,/turf/simulated/floor/wood,/area/space)
+"cX" = (/obj/structure/table/steel_reinforced,/obj/item/gun/energy/taser,/turf/simulated/floor/wood,/area/space)
+"cZ" = (/obj/structure/statue/verina/broken,/turf/simulated/floor/tiled,/area/space)
+"de" = (/obj/structure/poster/blue,/turf/simulated/wall/titanium,/area/warfare/homebase/blue)
+"dh" = (/obj/structure/closet/crate,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"dl" = (/obj/structure/closet,/turf/simulated/floor/tiled,/area/space)
+"dr" = (/obj/structure/bed,/turf/simulated/floor/tiled,/area/space)
+"ds" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"dA" = (/obj/structure/table/rack/holorack,/obj/item/storage/firstaid,/obj/item/storage/firstaid/adv,/obj/item/storage/firstaid/fire,/obj/item/storage/firstaid/toxin,/obj/item/storage/firstaid/toxin,/obj/item/wirecutters,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"dE" = (/turf/simulated/mineral,/area/warfare/battlefield/capture_point/mid)
+"dI" = (/obj/structure/window/reinforced/full,/turf/simulated/wall/titanium,/area/warfare/homebase/red)
+"dK" = (/obj/structure/banner/red,/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/red/two)
+"dN" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"dR" = (/obj/effect/landmark/start{name = "Blue Practitioner"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"dX" = (/obj/item/newspaper,/turf/simulated/floor/tiled,/area/space)
+"ef" = (/turf/simulated/wall/concrete,/area/warfare/battlefield/no_mans_land)
+"eg" = (/obj/structure/poster/leviathan,/turf/simulated/mineral,/area/space)
+"el" = (/obj/effect/floor_decal/newcorner/kafel/blue{dir = 4},/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/two)
+"er" = (/obj/effect/landmark/start{name = "Blue Scavenger"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"ey" = (/turf/simulated/mineral,/area/space)
+"eE" = (/obj/machinery/door/airlock/freezer,/turf/simulated/floor/plating,/area/space)
+"eM" = (/obj/item/newspaper,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"eT" = (/obj/structure/window/reinforced/full,/obj/structure/grille,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/one)
+"fd" = (/obj/structure/sign/double/planet/left,/turf/simulated/wall/titanium,/area/space)
+"ff" = (/obj/structure/banner/red,/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/red/one)
+"fo" = (/obj/effect/landmark/corpse/chef,/turf/space,/area/space)
+"fp" = (/obj/random/trash,/turf/simulated/floor/carpet/green,/area/space)
+"fv" = (/obj/structure/sign/directions/science{dir = 4},/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/blue/one)
+"fz" = (/obj/item/clothing/shoes/timbs,/turf/simulated/floor/fixed,/area/hallway)
+"fF" = (/obj/machinery/light,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"fK" = (/obj/effect/floor_decal/snow,/turf/simulated/floor/tiled/freezer,/area/space)
+"fW" = (/obj/effect/floor_decal/newcorner/kafel/blue{dir = 4},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"fY" = (/obj/item/newspaper,/turf/space,/area/space)
+"gf" = (/turf/simulated/floor/plating/reinforced,/area/warfare/battlefield/capture_point/blue/two)
+"gi" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"gs" = (/obj/structure/warfare/barricade/concrete_barrier,/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/red/one)
+"gu" = (/turf/simulated/wall/rust,/area/warfare/battlefield/capture_point/blue/two)
+"gw" = (/obj/machinery/light{dir = 1},/obj/effect/floor_decal/newcorner/red/solid,/obj/effect/landmark/start{name = "Red Sentry"},/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"gC" = (/obj/machinery/light,/turf/simulated/floor/wood,/area/space)
+"gI" = (/obj/effect/floor_decal/newcorner/kafel/blue{dir = 1},/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/two)
+"gJ" = (/obj/machinery/shower,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"gK" = (/obj/structure/catwalk,/turf/simulated/floor/plating/reinforced,/area/warfare/battlefield/capture_point/blue/two)
+"hb" = (/obj/structure/table/rack,/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"he" = (/obj/structure/lattice,/turf/space,/area/space)
+"hh" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"hn" = (/obj/random/canned_food,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"hp" = (/obj/item/ammo_casing/a357,/obj/item/ammo_casing/a357,/obj/item/ammo_casing/a357,/obj/item/ammo_casing/a357,/turf/simulated/floor/tiled,/area/space)
+"hw" = (/obj/structure/warfare/barricade/concrete_barrier{dir = 4},/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/red/one)
+"hF" = (/obj/random/trash,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"hS" = (/turf/simulated/floor/trenches,/area/warfare/battlefield/capture_point/red/one)
+"ia" = (/obj/structure/table/rack,/obj/effect/floor_decal/newcorner/red/quarter{dir = 8},/obj/item/storage/box/ifak,/obj/item/storage/box/ifak,/obj/item/storage/box/ifak,/obj/item/wirecutters,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"io" = (/obj/structure/poster/leviathan,/turf/simulated/wall/rust,/area/warfare/battlefield/capture_point/blue/two)
+"it" = (/turf/simulated/open,/area/warfare/homebase/red)
+"iu" = (/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"iC" = (/obj/item/gun/projectile/revolver/cpt,/turf/simulated/floor/plating,/area/space)
+"iF" = (/obj/structure/curtain,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"iM" = (/obj/item/instrument/guitar,/turf/simulated/floor/wood,/area/space)
+"iR" = (/obj/structure/closet/crate,/obj/effect/floor_decal/newcorner/red/quarter{dir = 4},/obj/item/reagent_containers/food/drinks/bottle/vermouth,/obj/item/storage/box/ifak,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"js" = (/obj/structure/closet/crate,/obj/effect/floor_decal/newcorner/red/quarter{dir = 1},/obj/item/reagent_containers/food/drinks/bottle/tequilla,/obj/item/cane,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"jI" = (/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/red/one)
+"jK" = (/obj/effect/floor_decal/turf/bar3{dir = 1},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"jN" = (/obj/machinery/light{dir = 1},/obj/random/trash,/turf/simulated/floor/tiled,/area/space)
+"jO" = (/obj/structure/toilet{dir = 8},/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"kc" = (/obj/structure/grille,/obj/structure/window/reinforced/full,/turf/space,/area/warfare/homebase/red)
+"kf" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance{dir = 2},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"kp" = (/obj/structure/table/steel_reinforced,/obj/item/device/boombox,/turf/simulated/floor/carpet/orange,/area/hallway)
+"kt" = (/obj/machinery/light{dir = 8},/obj/effect/floor_decal/newcorner/red/quarter{dir = 1},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"ky" = (/turf/simulated/mineral,/area/warfare/battlefield/no_mans_land)
+"kz" = (/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"kF" = (/obj/random/trash,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"kJ" = (/obj/machinery/sleeper,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"kK" = (/obj/structure/table/steel_reinforced,/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"kS" = (/turf/simulated/wall/titanium,/area/warfare/homebase/red)
+"kX" = (/obj/machinery/light,/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"lb" = (/obj/machinery/light,/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"ld" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"lj" = (/obj/structure/bed/chair{dir = 4; icon_state = "chair_preview"},/turf/simulated/floor/fixed,/area/hallway)
+"lk" = (/obj/structure/closet,/obj/item/gun/projectile/shotgun/pump/shitty,/obj/item/ammo_box/shotgun,/obj/item/grenade/frag/warfare,/turf/simulated/floor/tiled,/area/space)
+"ln" = (/obj/item/stool/bar/padded,/turf/simulated/floor/carpet/green,/area/space)
+"lr" = (/obj/structure/table/steel_reinforced,/obj/item/toy/figure/scientist,/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"lw" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"lF" = (/obj/structure/grille,/turf/space,/area/space)
+"lH" = (/obj/machinery/cooker/grill,/turf/simulated/floor/tiled,/area/space)
+"lJ" = (/obj/structure/bed/chair{dir = 4; icon_state = "chair_preview"},/obj/structure/torchwall{dir = 1; icon_state = "torchwall0"},/turf/simulated/floor/fixed,/area/hallway)
+"lL" = (/obj/structure/table/steel_reinforced,/obj/item/device/cassette/tape1,/obj/item/device/cassette/tape1,/obj/item/device/cassette/tape3,/obj/item/device/cassette/tape3,/obj/item/device/cassette/tape2,/obj/item/device/cassette/tape2,/turf/simulated/floor/carpet/orange,/area/hallway)
+"lP" = (/obj/structure/bed/chair{dir = 8; icon_state = "chair_preview"},/obj/structure/torchwall{dir = 1; icon_state = "torchwall0"},/turf/simulated/floor/fixed,/area/hallway)
+"mk" = (/obj/structure/table/reinforced,/turf/simulated/floor/plating,/area/space)
+"mq" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/two)
+"mu" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/holofloor/tiled/dark,/area/warfare/battlefield/capture_point/blue/one)
+"mB" = (/obj/machinery/door/airlock/glass,/turf/simulated/floor/tiled,/area/space)
+"mD" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"mU" = (/obj/random/trash,/turf/simulated/floor/holofloor/tiled/dark,/area/warfare/battlefield/capture_point/blue/one)
+"mW" = (/obj/random/trash,/turf/simulated/floor/plating/n2floor,/area/space)
+"mY" = (/obj/structure/warfare/barricade/concrete_barrier{dir = 8},/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/red/one)
+"mZ" = (/obj/effect/floor_decal/newcorner/red/solid,/obj/structure/destruction_computer/red,/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"na" = (/turf/simulated/floor/tiled/dark/airless,/area/space)
+"nh" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"nk" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"nH" = (/obj/structure/torchwall,/turf/simulated/mineral,/area/space)
+"nI" = (/obj/structure/table/steel_reinforced,/obj/item/reagent_containers/food/drinks/bottle/small/beer,/obj/item/reagent_containers/food/drinks/bottle/small/beer,/obj/item/reagent_containers/food/drinks/bottle/melonliquor,/turf/simulated/floor/carpet/orange,/area/hallway)
+"nO" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"nT" = (/obj/structure/lattice,/turf/simulated/floor/shuttle/black,/area/warfare/battlefield/capture_point/blue/two)
+"nV" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance{dir = 2},/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"ob" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance{dir = 2},/turf/simulated/floor/tiled,/area/space)
+"oc" = (/obj/structure/sign/kitchen,/turf/simulated/wall/titanium,/area/space)
+"oh" = (/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/red/two)
+"oo" = (/obj/machinery/cooker/fryer,/turf/simulated/floor/tiled,/area/space)
+"ou" = (/obj/random/trash,/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"ov" = (/obj/effect/landmark/start{name = "Blue Soldier"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"ox" = (/obj/effect/landmark/corpse/clown,/turf/space,/area/space)
+"oC" = (/obj/effect/landmark/start{name = "Blue Sniper"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"oF" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"oJ" = (/turf/simulated/floor/shuttle/black,/area/warfare/battlefield/capture_point/blue/two)
+"oR" = (/obj/structure/table/woodentable,/turf/simulated/floor/tiled,/area/space)
+"po" = (/obj/structure/poster/colony,/turf/simulated/mineral,/area/space)
+"pp" = (/turf/simulated/mineral,/area/warfare/battlefield/capture_point/red/one)
+"pr" = (/obj/effect/floor_decal/turf/bar3,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"pz" = (/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/mid)
+"pN" = (/obj/effect/floor_decal/newcorner/red/solid,/obj/structure/table/rack,/obj/item/defensive_barrier,/obj/item/defensive_barrier,/obj/item/ammo_magazine/c45rifle/akarabiner,/obj/item/ammo_magazine/c45rifle/akarabiner,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"pT" = (/obj/random/trash,/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/one)
+"qn" = (/obj/structure/sign/double/planet/right,/turf/simulated/wall/titanium,/area/space)
+"qv" = (/turf/simulated/floor/dirty,/area/warfare/battlefield/capture_point/mid)
+"qw" = (/obj/effect/floor_decal/newcorner/yellow{dir = 1},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"qy" = (/obj/structure/poster/hyshim,/turf/simulated/mineral,/area/space)
+"qz" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"qM" = (/obj/structure/sign/church,/turf/simulated/wall/titanium,/area/space)
+"qP" = (/obj/effect/floor_decal/newcorner/red/quarter{dir = 8},/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"qU" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/one)
+"ra" = (/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"rq" = (/obj/structure/poster/hyshim,/turf/simulated/wall/concrete,/area/warfare/battlefield/capture_point/red/one)
+"rz" = (/obj/random/canned_food,/turf/simulated/floor/tiled,/area/space)
+"rG" = (/obj/structure/table/rack/holorack,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"rR" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled,/area/space)
+"sj" = (/obj/effect/floor_decal/newcorner/red/solid,/obj/structure/table/rack,/obj/item/defensive_barrier,/obj/item/defensive_barrier,/obj/item/ammo_box/rifle,/obj/item/ammo_box/rifle,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"sk" = (/obj/effect/landmark/start{name = "Blue Squad Leader"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"sq" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"sw" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/dirty,/area/warfare/battlefield/capture_point/red/one)
+"sJ" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled,/area/space)
+"sL" = (/obj/structure/table/rack/holorack,/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/blue/two)
+"sW" = (/obj/structure/bed,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"sX" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/plating/n2floor,/area/warfare/battlefield/capture_point/blue/two)
+"sY" = (/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"tg" = (/obj/structure/torchwall{pixel_y = 30},/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/red/one)
+"th" = (/obj/machinery/door/airlock/hatch,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"tN" = (/obj/structure/table/steel_reinforced,/obj/item/paper/starfarer_lore1,/turf/simulated/floor/wood,/area/space)
+"tU" = (/obj/machinery/light/small{dir = 1},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"tV" = (/turf/simulated/floor/holofloor/tiled/dark,/area/warfare/battlefield/capture_point/blue/one)
+"tW" = (/mob/living/bot/cleanbot,/turf/space,/area/space)
+"tX" = (/obj/effect/floor_decal/newcorner/blue/quarter,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"tZ" = (/obj/structure/sign/NT,/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/blue/two)
+"ua" = (/turf/simulated/floor/plating/reinforced,/area/warfare/battlefield/capture_point/blue/one)
+"uj" = (/obj/structure/grille/broken,/turf/simulated/floor/plating,/area/space)
+"uG" = (/turf/simulated/floor/dirty,/area/space)
+"uH" = (/turf/simulated/floor/plating/n2floor,/area/warfare/homebase/blue)
+"uN" = (/obj/effect/floor_decal/newcorner/kafel/blue,/turf/simulated/floor/tiled,/area/space)
+"uO" = (/obj/random/trash,/turf/simulated/floor/plating,/area/space)
+"uQ" = (/mob/living/bot/medbot,/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"uT" = (/obj/effect/floor_decal/turf/bar3{dir = 8},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"uW" = (/obj/structure/sign/redcross,/turf/simulated/wall/titanium,/area/warfare/homebase/red)
+"vc" = (/obj/structure/bed,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"vj" = (/obj/structure/curtain,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"vk" = (/obj/machinery/light,/turf/simulated/floor/tiled,/area/space)
+"vG" = (/turf/space,/area/warfare/battlefield/capture_point/blue/one)
+"vK" = (/obj/structure/sign/medholo,/turf/simulated/wall/titanium,/area/warfare/homebase/red)
+"vM" = (/obj/structure/table/reinforced,/turf/simulated/floor/tiled,/area/space)
+"vQ" = (/obj/effect/floor_decal/newcorner/red/solid,/obj/effect/landmark/start{name = "Red Flame Trooper"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"wn" = (/turf/simulated/floor/plating/n2floor,/area/space)
+"wt" = (/obj/machinery/door/airlock/science,/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"wz" = (/obj/structure/closet/crate,/obj/item/clothing/suit/space/syndicate/black/red,/obj/item/clothing/suit/space/syndicate/black/red,/obj/item/clothing/suit/space/syndicate/black/red,/obj/item/clothing/head/helmet/space/syndicate/black/red,/obj/item/clothing/head/helmet/space/syndicate/black/red,/obj/item/clothing/head/helmet/space/syndicate/black/red,/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"wF" = (/obj/item/mop,/turf/simulated/floor/tiled,/area/space)
+"wW" = (/obj/structure/sink{dir = 8; pixel_x = 16},/turf/simulated/wall/rust,/area/space)
+"wZ" = (/obj/structure/table/rack/holorack,/obj/random/canned_food,/obj/random/canned_food,/turf/simulated/floor/tiled,/area/space)
+"xa" = (/turf/simulated/floor/carpet/green,/area/space)
+"xd" = (/obj/effect/floor_decal/newcorner/red/solid,/obj/structure/table/rack,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/breacher,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/obj/item/plastique,/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"xp" = (/turf/simulated/floor/tiled,/area/space)
+"xr" = (/obj/effect/landmark/start{name = "Red Sniper"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"xs" = (/obj/effect/floor_decal/newcorner/kafel/blue{dir = 8},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"xu" = (/obj/effect/floor_decal/newcorner/blue/quarter{dir = 1},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"xK" = (/obj/effect/landmark/start{name = "Red Sentry"},/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"xT" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/two)
+"xW" = (/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/red/one)
+"ya" = (/obj/random/trash,/obj/random/trash,/turf/simulated/floor/holofloor/tiled/dark,/area/warfare/battlefield/capture_point/blue/one)
+"yd" = (/turf/simulated/floor/tiled/ramp{dir = 1},/area/warfare/homebase/red)
+"yi" = (/obj/machinery/optable,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"yl" = (/obj/effect/floor_decal/newcorner/blue/quarter{dir = 8},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"yD" = (/obj/structure/torchwall{dir = 8; icon_state = "torchwall0"},/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/red/one)
+"yI" = (/turf/simulated/wall/concrete,/area/warfare/battlefield/capture_point/blue/two)
+"zd" = (/obj/structure/catwalk,/turf/space,/area/space)
+"zl" = (/obj/item/device/flashlight/maglight,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"zp" = (/obj/structure/bed/chair{dir = 8; icon_state = "chair_preview"},/turf/simulated/floor/carpet/green,/area/space)
+"zB" = (/obj/machinery/light,/turf/simulated/floor/trenches,/area/warfare/battlefield/capture_point/red/one)
+"zL" = (/obj/structure/poster/red,/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/red/two)
+"zN" = (/obj/structure/torchwall{dir = 4; icon_state = "torchwall0"},/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/red/one)
+"zU" = (/obj/machinery/light,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"zX" = (/obj/structure/bed/chair/office{dir = 4},/obj/effect/landmark/start{name = "Red Soldier"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Ah" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/dirty,/area/warfare/battlefield/capture_point/blue/two)
+"Ak" = (/obj/structure/window/reinforced/full,/obj/structure/grille,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"Aq" = (/obj/structure/grille,/obj/structure/window/reinforced/full,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Ax" = (/turf/simulated/mineral/random,/area/warfare/battlefield/capture_point/red/one)
+"AD" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"AN" = (/obj/machinery/light,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"AU" = (/obj/random/trash,/turf/simulated/floor/tiled,/area/space)
+"AW" = (/obj/effect/floor_decal/newcorner/red/quarter,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"AZ" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"Bb" = (/turf/simulated/wall/concrete,/area/space)
+"Bf" = (/obj/effect/floor_decal/newcorner/blue/quarter{dir = 4},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"Bi" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"Ci" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Cr" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"CA" = (/obj/machinery/light,/turf/space,/area/space)
+"CC" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"CD" = (/obj/machinery/light{dir = 8},/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"CL" = (/obj/structure/table/steel_reinforced,/obj/item/reagent_containers/food/drinks/bottle/premiumwine,/obj/item/reagent_containers/food/drinks/bottle/premiumvodka,/obj/item/reagent_containers/food/drinks/bottle/whiskey,/turf/simulated/floor/carpet/orange,/area/hallway)
+"CM" = (/obj/random/trash,/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/two)
+"Dm" = (/obj/structure/sign/ntlogo,/turf/simulated/wall/titanium,/area/space)
+"Ds" = (/obj/structure/bed/chair{dir = 4; icon_state = "chair_preview"},/turf/simulated/floor/carpet/green,/area/space)
+"Dv" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"DL" = (/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/capture_point/blue/two)
+"DN" = (/turf/simulated/mineral/random,/area/space)
+"DP" = (/obj/random/trash,/turf/simulated/floor/tiled/dark,/area/space)
+"DU" = (/obj/structure/poster/leviathan,/turf/simulated/wall/titanium,/area/space)
+"DZ" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/plating/reinforced,/area/warfare/battlefield/capture_point/red/one)
+"Es" = (/obj/structure/table/steel_reinforced,/obj/item/coin/iron,/obj/item/coin/iron,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Et" = (/obj/structure/poster/poster_pray,/turf/simulated/wall/titanium,/area/space)
+"Eu" = (/turf/space,/area/space)
+"Ez" = (/obj/structure/banner/red,/turf/simulated/wall/titanium,/area/warfare/homebase/red)
+"EA" = (/obj/effect/floor_decal/snow,/obj/structure/closet/secure_closet/freezer/meat,/turf/simulated/floor/tiled/freezer,/area/space)
+"EB" = (/obj/structure/grille,/turf/simulated/floor/tiled,/area/space)
+"ED" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"EF" = (/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/blue/two)
+"EG" = (/obj/machinery/cooker/oven,/turf/simulated/floor/tiled,/area/space)
+"EV" = (/obj/machinery/light{dir = 4},/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Fc" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"Fh" = (/obj/structure/toilet{dir = 4},/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"Fp" = (/obj/structure/bed/chair{dir = 8; icon_state = "chair_preview"},/turf/simulated/floor/wood,/area/space)
+"Fu" = (/obj/effect/floor_decal/newcorner/red/quarter{dir = 4},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"Fy" = (/obj/structure/catwalk,/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"FC" = (/obj/structure/table/steel_reinforced,/obj/random/firstaid,/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"Gm" = (/turf/simulated/mineral,/area/warfare/battlefield/capture_point/blue/two)
+"Gn" = (/obj/structure/bed/chair/office{dir = 8},/obj/effect/landmark/start{name = "Red Soldier"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Gx" = (/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/one)
+"Gy" = (/obj/machinery/light_construct{dir = 4},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"Gz" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance{dir = 2},/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/two)
+"GC" = (/obj/effect/floor_decal/newcorner/red/quarter{dir = 8},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"GF" = (/obj/effect/landmark/start{name = "Blue Captain"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"GS" = (/obj/machinery/light/small,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"GW" = (/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/no_mans_land)
+"GY" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"HO" = (/obj/structure/table/rack/holorack,/turf/simulated/floor/plating/reinforced,/area/warfare/battlefield/capture_point/blue/two)
+"HP" = (/turf/simulated/floor/fixed,/area/hallway)
+"HT" = (/obj/structure/table/steel_reinforced,/obj/item/deck/cards,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"If" = (/obj/structure/banner/red/small,/turf/simulated/wall/titanium,/area/warfare/homebase/red)
+"Ij" = (/obj/structure/table/rack/holorack,/obj/random/canned_food,/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"In" = (/obj/machinery/light{dir = 4},/obj/effect/floor_decal/newcorner/red/quarter{dir = 4},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"Iq" = (/turf/simulated/floor/wood,/area/space)
+"It" = (/obj/effect/landmark/start{name = "Blue Sentry"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"IA" = (/obj/effect/landmark/start{name = "Red Practitioner"},/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"IR" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/space)
+"IZ" = (/obj/structure/table/steel_reinforced,/obj/random/canned_food,/turf/simulated/floor/wood,/area/space)
+"Ja" = (/obj/effect/floor_decal/turf/bar3{dir = 4},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Jh" = (/obj/structure/closet/secure_closet/freezer/fridge,/obj/item/reagent_containers/food/drinks/bottle/small/beer,/obj/item/reagent_containers/food/drinks/bottle/small/beer,/obj/item/reagent_containers/food/drinks/bottle/small/beer,/obj/item/reagent_containers/food/drinks/bottle/cognac,/obj/item/reagent_containers/food/drinks/bottle/premiumwine,/turf/simulated/floor/tiled,/area/space)
+"Jk" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Jt" = (/mob/living/bot/cleanbot{canmove = 0; desc = "A small robot with a mop attacched to it. It looks old and unresponsive."},/turf/simulated/floor/tiled,/area/space)
+"Jz" = (/turf/simulated/floor/dirty/indestructable/lightless,/area/space)
+"JO" = (/obj/machinery/resleever,/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"Ka" = (/obj/machinery/light,/turf/simulated/floor/plating,/area/space)
+"Kd" = (/obj/effect/landmark/start{name = "Red Practitioner"},/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"Kg" = (/turf/simulated/floor/plating,/area/space)
+"Kk" = (/turf/simulated/mineral/random/high_chance,/area/space)
+"Kq" = (/obj/effect/landmark/start{name = "Red Scavenger"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Kv" = (/obj/structure/table/steel_reinforced,/obj/item/reagent_containers/food/drinks/bottle/rum,/obj/item/reagent_containers/food/drinks/bottle/patron,/obj/item/reagent_containers/food/drinks/bottle/wine,/turf/simulated/floor/carpet/orange,/area/hallway)
+"Kw" = (/obj/structure/catwalk,/turf/simulated/floor/plating/reinforced,/area/warfare/homebase/blue)
+"Ky" = (/obj/machinery/light{dir = 4},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"KN" = (/obj/structure/bed/chair/janicart,/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled,/area/space)
+"KR" = (/obj/structure/window/reinforced/full,/obj/structure/grille,/turf/simulated/floor/tiled,/area/space)
+"KY" = (/turf/simulated/floor/tiled/dark,/area/space)
+"Lm" = (/obj/effect/floor_decal/newcorner/yellow{dir = 4},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"Lr" = (/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/blue/one)
+"Lz" = (/obj/effect/floor_decal/turf/plating,/obj/random/trash,/turf/space,/area/warfare/battlefield/capture_point/blue/two)
+"LK" = (/obj/effect/floor_decal/turf/plating,/turf/space,/area/warfare/battlefield/capture_point/blue/two)
+"LM" = (/obj/structure/poster/red,/turf/simulated/wall/titanium,/area/warfare/homebase/red)
+"LP" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance{dir = 2},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"LX" = (/obj/random/trash,/turf/simulated/floor/tiled/airless,/area/space)
+"LY" = (/obj/structure/bed/chair/office{dir = 4},/obj/effect/landmark/start{name = "Red Medic"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Mj" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"MT" = (/obj/structure/table/rack,/obj/item/clothing/shoes/timbs,/turf/simulated/floor/tiled,/area/space)
+"Ne" = (/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/blue/two)
+"Nh" = (/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/two)
+"Nk" = (/obj/structure/destruction_computer/blue,/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"Nl" = (/turf/simulated/floor/dirty,/area/warfare/battlefield/capture_point/blue/two)
+"Np" = (/obj/structure/sign/ntlogo,/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/blue/two)
+"Nu" = (/obj/effect/decal/cleanable/blood/gibs/limb,/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/no_mans_land)
+"Nz" = (/turf/simulated/floor,/area/warfare/battlefield/capture_point/blue/one)
+"NK" = (/obj/machinery/atmospherics/unary/engine{dir = 1},/turf/space,/area/warfare/homebase/blue)
+"NQ" = (/obj/machinery/door/airlock/hatch,/turf/simulated/floor/plating/reinforced,/area/warfare/homebase/blue)
+"NZ" = (/obj/effect/landmark/start{name = "Blue Medic"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"Oa" = (/turf/simulated/wall/titanium,/area/warfare/homebase/blue)
+"Oi" = (/obj/machinery/computer/operating,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"Ov" = (/turf/simulated/floor/tiled/white/airless,/area/space)
+"OH" = (/obj/effect/floor_decal/newcorner/red/quarter,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"OK" = (/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"OQ" = (/turf/simulated/wall/rust,/area/space)
+"OS" = (/obj/structure/grille,/obj/structure/window/reinforced/polarized/full,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"Pc" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance,/turf/simulated/floor/tiled,/area/space)
+"Pe" = (/obj/structure/closet/crate,/obj/item/clothing/suit/space/syndicate/black/blue,/obj/item/clothing/head/helmet/space/syndicate/black/blue,/obj/item/device/flashlight/upgraded,/obj/item/clothing/mask/gas/nam,/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"Pu" = (/obj/structure/closet/crate,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/obj/item/grenade/frag/warfare,/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/red/two)
+"Py" = (/obj/structure/table/steel_reinforced,/obj/item/coin/iron,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"PO" = (/obj/machinery/door/airlock/hatch,/turf/simulated/floor/tiled,/area/space)
+"PR" = (/obj/structure/bed/chair/office{dir = 8},/obj/effect/landmark/start{name = "Red Medic"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"PS" = (/obj/random/trash,/obj/machinery/light/small{dir = 8},/turf/simulated/floor/tiled,/area/space)
+"Qv" = (/obj/structure/closet,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"Qy" = (/turf/simulated/floor/dirty,/area/warfare/battlefield/no_mans_land)
+"QJ" = (/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/red/two)
+"QN" = (/obj/effect/floor_decal/newcorner/kafel/blue{dir = 1},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"QO" = (/obj/item/device/flashlight/maglight,/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"Ri" = (/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"Rk" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"Rx" = (/turf/simulated/wall/rust,/area/warfare/homebase/blue)
+"RA" = (/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"RH" = (/turf/simulated/floor/dirty,/area/warfare/battlefield/capture_point/red/one)
+"RJ" = (/obj/structure/poster/colony,/turf/simulated/wall/titanium,/area/space)
+"RL" = (/obj/structure/sign/ntlogo,/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/blue/one)
+"RP" = (/obj/item/clothing/mask/balaclava,/turf/simulated/floor/fixed,/area/hallway)
+"RY" = (/obj/structure/table/steel_reinforced,/obj/item/device/cassette/tape2,/obj/item/device/cassette/tape2,/obj/item/device/cassette/tape3,/obj/item/device/cassette/tape3,/obj/item/device/cassette/tape1,/obj/item/device/cassette/tape1,/turf/simulated/floor/carpet/orange,/area/hallway)
+"Si" = (/obj/effect/landmark/start{name = "Red Engineer"},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"Sk" = (/obj/effect/floor_decal/snow,/obj/item/toy/figure/chef,/turf/simulated/floor/tiled/freezer,/area/space)
+"Sy" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance{dir = 2},/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"Sz" = (/obj/structure/bed,/obj/effect/landmark/corpse,/turf/simulated/floor/tiled,/area/space)
+"SA" = (/obj/effect/floor_decal/newcorner/red/solid,/obj/effect/landmark/start{name = "Red Captain"},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"SD" = (/obj/structure/table/steel_reinforced,/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"SE" = (/obj/structure/table/rack/holorack,/turf/simulated/floor/plating,/area/space)
+"SZ" = (/obj/structure/bed/chair{dir = 8; icon_state = "chair_preview"},/turf/simulated/floor/fixed,/area/hallway)
+"Ta" = (/obj/effect/landmark/corpse,/obj/item/clothing/under/color/grey,/obj/item/storage/backpack/satchel/grey,/turf/space,/area/space)
+"Tj" = (/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled/dark,/area/warfare/homebase/red)
+"Tt" = (/obj/machinery/door/airlock/hatch,/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"Ty" = (/obj/effect/floor_decal/newcorner/kafel/blue{dir = 4},/turf/simulated/floor/tiled,/area/space)
+"TH" = (/obj/random/trash,/turf/space,/area/space)
+"TT" = (/obj/structure/mopbucket,/turf/simulated/floor/tiled,/area/space)
+"TW" = (/obj/structure/bed/chair/comfy/black{dir = 8},/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/one)
+"Ue" = (/turf/simulated/wall/titanium,/area/space)
+"Uk" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"Ur" = (/turf/simulated/floor/tiled/ramp,/area/warfare/homebase/red)
+"UA" = (/obj/item/pizzabox/meat,/turf/space,/area/space)
+"UB" = (/obj/item/toy/figure/assistant,/turf/simulated/floor/plating/n2floor,/area/space)
+"UD" = (/turf/simulated/floor/plating/n2floor,/area/warfare/battlefield/capture_point/blue/one)
+"UJ" = (/obj/machinery/light{dir = 8},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"UN" = (/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"UR" = (/obj/machinery/light,/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"US" = (/turf/simulated/floor/carpet/orange,/area/hallway)
+"UT" = (/obj/machinery/atmospherics/unary/engine{dir = 4},/turf/space,/area/warfare/battlefield/capture_point/red/two)
+"Va" = (/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/blue/one)
+"Vm" = (/obj/item/device/flashlight/maglight,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"Vs" = (/obj/item/storage/bag/trash,/turf/simulated/floor/tiled,/area/space)
+"VC" = (/obj/effect/floor_decal/turf/plating,/obj/structure/closet/crate,/obj/item/melee/baton/loaded,/obj/item/device/flashlight/maglight,/turf/space,/area/warfare/battlefield/capture_point/blue/two)
+"VF" = (/obj/structure/grille,/obj/structure/window/reinforced/full,/turf/space,/area/warfare/homebase/blue)
+"VR" = (/obj/item/pickaxe,/turf/simulated/floor/dirty/indestructable/lightless,/area/warfare/battlefield/no_mans_land)
+"VX" = (/obj/structure/catwalk,/turf/simulated/floor/plating/reinforced,/area/warfare/battlefield/capture_point/red/one)
+"Wg" = (/obj/structure/sign/warning/science,/turf/simulated/wall/titanium,/area/warfare/battlefield/capture_point/blue/one)
+"Wi" = (/obj/structure/grille,/turf/simulated/floor/tiled/airless,/area/space)
+"Wn" = (/turf/space,/area/warfare/battlefield/capture_point/blue/two)
+"WB" = (/obj/structure/table/reinforced,/obj/item/material/kitchen/rollingpin,/turf/simulated/floor/tiled,/area/space)
+"WF" = (/obj/effect/landmark/start{name = "Red Medic"},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"WL" = (/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"WP" = (/obj/random/trash,/turf/simulated/floor/tiled/dark,/area/warfare/battlefield/capture_point/blue/one)
+"WQ" = (/obj/effect/landmark/start{name = "Blue Engineer"},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"WT" = (/obj/structure/bed,/turf/space,/area/space)
+"WX" = (/obj/machinery/door/airlock/maintenance,/turf/simulated/floor/plating/n2floor,/area/space)
+"Xf" = (/obj/structure/curtain/medical,/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"Xg" = (/turf/simulated/floor/plating/reinforced,/area/space)
+"Xl" = (/obj/structure/grille,/obj/structure/window/reinforced/full,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"Xm" = (/obj/random/trash,/obj/effect/floor_decal/newcorner/yellow,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"Xx" = (/obj/structure/grille,/obj/structure/window/reinforced/polarized/full,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/blue/two)
+"XA" = (/obj/structure/poster/happiness,/turf/simulated/mineral,/area/space)
+"XE" = (/obj/effect/floor_decal/newcorner/red/solid,/turf/simulated/floor/tiled,/area/warfare/battlefield/capture_point/red/two)
+"XY" = (/obj/structure/grille,/obj/structure/window/reinforced/full,/turf/simulated/floor/tiled,/area/space)
+"Yf" = (/turf/simulated/wall/rust,/area/warfare/battlefield/capture_point/blue/one)
+"Yh" = (/obj/structure/table/steel_reinforced,/obj/item/reagent_containers/food/drinks/bottle/rum,/turf/simulated/floor/wood,/area/space)
+"Yq" = (/obj/effect/floor_decal/newcorner/red/quarter{dir = 1},/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"Yw" = (/obj/structure/table/steel_reinforced,/turf/simulated/floor/wood,/area/space)
+"YC" = (/obj/random/trash,/obj/effect/floor_decal/snow,/turf/simulated/floor/tiled/freezer,/area/space)
+"YF" = (/turf/simulated/mineral/random,/area/warfare/battlefield/no_mans_land)
+"YH" = (/obj/item/toy/figure/chaplain,/turf/simulated/floor/tiled/dark/airless,/area/space)
+"YO" = (/turf/space,/area/warfare/homebase/red)
+"YR" = (/obj/structure/table/rack/holorack,/obj/item/storage/firstaid/surgery,/obj/item/storage/firstaid,/obj/item/storage/firstaid/fire,/obj/item/wirecutters,/turf/simulated/floor/tiled,/area/warfare/homebase/red)
+"YU" = (/turf/simulated/floor/holofloor/tiled,/area/warfare/battlefield/capture_point/blue/one)
+"Zf" = (/turf/simulated/floor/tiled/white,/area/warfare/homebase/red)
+"Zi" = (/obj/machinery/shower{dir = 8},/turf/simulated/floor/tiled/white,/area/warfare/battlefield/capture_point/blue/one)
+"Zx" = (/obj/machinery/door/airlock/multi_tile/metal/maintenance,/turf/simulated/floor/plating,/area/warfare/battlefield/capture_point/blue/one)
+"Zz" = (/obj/effect/landmark/start{name = "Blue Flame Trooper"},/obj/machinery/light{dir = 1},/turf/simulated/floor/tiled,/area/warfare/homebase/blue)
+"ZG" = (/obj/item/reagent_containers/spray/cleaner,/turf/simulated/floor/plating,/area/space)
+"ZI" = (/obj/effect/landmark/map_data{height = 2},/turf/simulated/mineral,/area/space)
+"ZO" = (/obj/structure/bed/chair{dir = 4; icon_state = "chair_preview"},/turf/simulated/floor/wood,/area/space)
+"ZU" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/plating/reinforced,/area/space)
+"ZW" = (/turf/simulated/floor/plating/n2floor,/area/warfare/battlefield/capture_point/blue/two)
+
+(1,1,1) = {"
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzdzdzdzdzdzdzdzdzdzdzdzdzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzdzdEuEuEuzdEuzdzdzdzdzdzdzdzdzdzdzdzdzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzdEuEuEuEuEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzdEuEuEuEuEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzdzdzdzdzdEuzdzdzdzdzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzdzdzdzdEuEuEuEuEuEuEuEuEuzdEuEuEuzdzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzdzdzdzdEuEuEuEuEuEuEuUePOUeUePOUeEuEuEuEuEuEuEuzdzdzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuNKNKNKNKNKEuEuEuEuEuEuEuEuEuEuEuEuUeOQOQOQxpuOxpKYUeUeUeUeEuEuEuEuEuEuEuEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOaOaOaOaOaOaOaEuEuEuEuEuEuEuEuEuEuEuUexpKgUeKgxpXgxpUeUeUeUeEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYsYsYsYsYOaEuEuEuEuEuEuEuEuUeUeUeUeKYxpUexpKYKgxpUeUeUeUeKgOQKgEuEuEuEuEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYWQsYsYsYOaEuEuEuEuEuEuEuKgUexpKYUesJUeUeUexpKgUeUexpKYKYxpxpKgUeEuEuEuEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYsYQOsYsYOaEuEuEuEuEuEuEuKgKgxpXgxpxpxpsJxpxpxpxpUexpxpKYKYKgKgOQEuEuEuEuzdzdzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOaURsYsYsYUROaEuEuEuEuUeUeUeOQKgxpXgxpOQOQUeUeKgxpAUsJxpxpxpxpxpKYOQUeUeUeEuEuEuzdzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYOasYOaEuEuEuEuEuUeUeUeOQxpAUxpXgUeUeUeUeKgxpOQUeOQOQsJOQUeUeUeUeUeUeEuEuEuEuEuEuEuzdzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOaagOaUkOaUkOaOaOaEuEuEuOQUeUeOQaoxpxpKgUeUeUeUeKgKgOQUeUeUexpxpOQOQOQUeUeOQEuEuEuEuzdEuEuEuzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYnhsYsYsYsYOaOaEuEuEuOQUeUeOQOQOQOQOQKgUeUeUexpKgOQUeUeUexpXgOQOQOQUeUeOQEuEuEuEuzdEuEuEuzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOadeOaOaOaOaOaOasYsYsYOadeOadhVFEuEuEuOQUeUeUeUeUeUeUeUeUeYfLrLrLrLrUeUeUexpXgOQOQOQUeUeOQEuEuEuEuaaEuEuEuzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYsYnhsYsYOaOasYsYOasYsYZzsYOaOaOaOaOaOaRxRxOaOaUeUeUeUeYfOKOKOKLrUeUeUexpXgUeUeUeUeUeUeEuEuEuEuEuEuEuEuEuEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYsYsYsYsYOaOaUkOaOasYersYsYNQKwKwKwUksYsYsYsYRxUeUeUeUeLrOKOKOKLrUeUeUexpXgUeUeOQOQUeUeEuEuEuEuzdEuzdEuzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuoxEuEuEuEuEuEuEuVFsYsYNZsYQOsYsYsYsYUkoCskItsYOaOaOaOaOamDsYsYsYRxLrLrLrLrLrLrsqLrLrUeUeUexpxpUexpxphpKgXgheheheEuzdzdzdzdEuzdzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuVFsYsYdRsYsYsYsYsYsYOasYovsYsYOaOaOaOaRxsYsYsYsYUkbbOKuauaGxOKqwLrUeOQOQUexpxpsJxpuOiCxpXgXgEuEuEuzdEuzdEuzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYsYsYsYsYOaOaUkOaOaOasYsYsYNQKwKwKwUksYsYsYsYOaOKOKOKuaOKkFOKLrUeOQOQUeAUxpUexpxpxpKYKREuEuEuEuEuEuzdEuzdEuzdEuEuEuTHEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYsYURsYsYOasYsYsYsYOasYURsYOaOaOaOaOasYsYsYsYOaLrYfYfYfLrkFOKLrUeOQOQUexpxpUexpKYxpxpKREuEuEuEuzdEuEuEuzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOaOaOaOaUkOaOaOasYsYsYOadeOaPeVFEuEuEuOaOaRxRxOaOaUeUeUeLrLrVaOKYfOQUeUeUexpxpOQxpKYKYAUEuEuEuEuEuzdEuEuEuzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOauHOaEuOaOaURsYsYsYOaOaOaEuEuEuUeUeUeUeUeUeUeOQOQYfLrVaGxYfOQUeUeUeKgKYOQxpxpxpxpOQEuEuEuEuzdEuEuEuzdEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOauHOaEuOaOaOaOaTtOadeOaOaEuEuEuOQLrLrLrLrLrLrYfYfYfLrVaGxLrLrUeUeUeKgKgUeUeUeUeUeUeEuEuEuzdzdEuEuzdzdEuEuEuEuEuEuEuTHTHTHEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOauHOaOaOamDsYsYsYsYsYKyOaEuEuEuEuvGYfOKkFOKOKLrLrLrLrOKGxLrLrLrOQUexpKgxpxpxpUeEuEuEuEuEuzdEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOauHuHuHUksYsYsYsYsYsYsYOaEuEuEuEuvGYfVaVaOKOKsqOKOKOKOKGxGxGxLrxpxpKYDPAUDPxpxpEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOaOaOaOaOadeOaOaTtOaOaOaOaEuEuEuEuvGLrOKOKVaOKLrOKOKOKOKOKOKLmsqxpxpxpKYKYxpxpUeEuEuEuEuEuEuEuEuEuEuEuEuEuEuLrWgOSOSYfLrLrLrLrLrOSLrLrLrEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOamDsYsYsYsYsYKyOaEuEuEuEuvGLrLrLrLrYfYfLrLrLrOKOKLrLrLrLrLrLrLrLrUeUeUeEuEuEuTHEuEuEuEuEuEuEuEuEuEuLruQWLWLXfZiLrYfWLEDEDFCWLLrEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuVFsYsYsYsYsYsYsYVFEuEuEuEuEuvGvGvGLrOKOKOKOKLrVaVaLrOKGxOKGxGxOKYfEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuLrWLlrWLLrYfLrLrWLGxGxGxWLLrEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOaOaOadeTtOaOaOaOaEuEuEuEuEuEuEuEuOKVaOKGxOKLrOKVasqOKkFkFkFkFOKYfEuEuEuLrYfLrLrLrYfLrEuOQYfYfYfYfEuLrWLqUTWWLWLwtWLWLGxtVouEDOSEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOamDsYQOsYKyOaEuEuEuEuEuEuEuEuEuOKWPOKGxGxsqOKOKLrOKVaVaWPGxOKLrEuEuEuLrtUsWLrtUsWLrxpSzLrtUsWYfEuLrYUmuGxouWLLrLrWLyamUWLEDYfEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuOasYsYGFsYsYOaEuEuEuEuEuEuEuEuEuLrkFkFOKOKLrOKOKLrGxOKVaVaOKOKYfEuEuEuLrOKOKYfVmOKLrxpAULrOKOKYfEuLrtVWLNzWLWLLrLrWLWLWLWLWLLrEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuVFVFsYsYsYVFVFEuEuEuEuEuEuEuEuEuYfYfYfYfLrLrOKOKfvLrLrLrLrLrLrYfEuEuEuLrOKGxYfOKOKLrxpAULrOKOKYfEuLrLrLrwtLrLrLrLrLrLrwtLrLrLrEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuVFNkVFEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuLrOKOKOKOKOKOKLrEuEuEuEuEuEuEuYfsqLrLrsqLrLrsJUeLrsqLrLrLrLrLrLrOKOKLrLrYfYfLrOKLrvGvGEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuVFVFVFEuEuEuEuEuEuEuEuEuUeUeUeUeUeUeLrOKkFkFOKOKGxLrEuEuEuEuEuEuEuYfOKOKOKOKOKOKOKOKOKOKOKLrOKkFOKOKOKOKOKOKLrLrLrOKLrLrOQEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuVFEuEuEuEuEuEuEuEuEuUeUeUeUeOQOQOQLrOKOKWPOKOKGxLrLrLrRLLrLrLrYfYfOKOKGxVaGxVaOKWPVaOKOKOKOKpTkFOKOKOKGxOKOKGxOKkFXmOKUeEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUewnwnwnwnwnwnsqbbOKkFVaVaGxsqOKOKOKkFOKOKkFOKOKVaVaOKOKOKOKOKOKOKOKLrOKOKOKkFkFkFkFOKLrLrLrUesJUeUeEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUewnUeUeUeUeLrLrOKOKOKOKOKOKLrOKOKOKOKkFkFOKOKVaOKLrsqLrLrsJUeLrsqLrLrLrLrLrLrLrLrLrLrLrvGvGUexpxpUeEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUewnUeUeUeUeLrLrLrLrldOKLrLrLrLrYfYfYfYfYfYfYfOKOKLrOKOKLrxpxpLrOKOKLrEuEuEuEuEuEuEuEueyeyUeUexpxpUeUeEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUewnUeUeUeUeLrLrOKkFkFOKOKOKLrLrUeUeUeUeUeUeYfOKkFLrOKOKLrxpxpLrOKOKOSEuEuEuEuEuEuEuEueyeyUelkxpxpxpUeEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUewnOQUeUeUeLrLrOKWPWPVaOKOKLrLrUeUeUeUeUeUeLrOKOKLrGSsWLrxpxpLrGSsWLrEuEuEuEuEueyeyEueyeyUexpxpKgdrUeeyeyeyeyeyEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUewnOQUeUeOKOKOKOKVaOKkFWPWPOKOKOKUeUeUeUeUeLrLrLrLrLrLrLrEuOQYfYfLrLrEuEuEuEuEueyeyeyeyeyOQPSAUKgoRUeeyeyeyeyeyEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUewnUeUeUeLrLrLrOKOKOKVaOKVaLrLrLrUeUeUeUeUeUeLrUDLrEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyuGeyeyUeMTxpxpoRUeKkKkeyeyeyEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUewnUeUeUeLrLrLrLrLrldVaLrLrLrLrLrUeUeUeUeUeUeLrUDLrEuEuEuEuEuEuEuEuEuEueyEuEuEueyeyeyUeUeUeUexpxpUeUeUeUeeyeyeyEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUeUeUeUeXYXYUeUeUeUeUeUeUeUeWXUeUeUeDUfdqnLrLrZxGxLrLrUeUeUeUeUeOQOQUeOQUewnUeUeOQEuTHWTEuEuEuEuEueyeyeyeyeyUeUeUeJhIRUeUesJUeIRxpUeUeKkeyEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUexpAUAUxpxpxpxpxpXgXgXgXgxpxpKYxpxpZUXgxpAUAUxpAUAUAUjNAUAUxpsJwnwnwnmWmWwnmWwnwnOQEuEuEuEuEueyeyEueyEuEueyeyUexpaBAUxpKgxpxpxpxpxpUeUeKkKkeyeyEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUexpxpxpXgXgxpXgxpxpxpxpxpxpobxpxpAUAUKgKgxpKgKgKgXgKgKgxpKguOxpUeUeUeUeUewnUeUeUewnOQEuTaEuEuEueyeyEueyeyKkeyKkUeiMcXIqYhIqIqbNcTIZYwYwUeUeKkeyeyEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUexpxpxpxpxpxpxpxpuNxpxpxpxpUeUeUexpxpxpxpxpxpxpKgxpxpXgXgKYKYxpUeUeUeUeUewnUeUeUewnOQEuEuEuEuEueyeyeyKkKkUeOQUeUefpxaxalnlnOQlnlnxaxaxaOQUeKkeyeyEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUexpxpxpEFEFEFEFEFsXEFEFEFEFEFUeUexpxpxpXgxpxpxpUeUeUeUeUexpxpUeUewnwnwnwnwnUeUeUewnUeEuEuEuEuEuEuEueyKkKkUexpxpUefpDsYwFpxafpfpZOtNzpxaUeUeKkEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUexpXgxpEFEFEFEFEFZWEFEFEFEFEFEFEFEFEFMjRiEFEFEFEFEFEFEFEFMjRiEFEFAZEFEFUeEFEFEFEFAZEFEFEFEFEFEuEuEuEueyKkUexpxpUeIqgCIqIqIqIqIqIqIqgCIqUeUeeyEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUexpxpxpEFEFEFEFEFZWEFEFEFEFrGsLRiNhEFQNQNEFNeHOrGEFEFEFEFQNQNRiRiQNRiEFUeEFRiNhNhgIRiRiRiRiEFEuEuUeOQOQOQUexpKgUeRJUeKgKgUesJUeUeOQOQUeUeUeUeeyeyEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUeUeUeUeUeUeUeUeUemBUeEFEFEFEFEFZWEFguEFgubiRiNeNeAZRiRiAZRiNhCCEFEFEFEFNeRiNhNhRiRiEFEFbKRiCMhFRiRiRiNhNhEFUeOQOQxpxpxpEBxpdXIRxpxpxpxpxpxpxpxpxpxpxpKYKYUeeyeyEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUexpXgXgxpXgXgXgxpxpTysXZWZWZWZWZWEFguguguRiNhRiNeEFRiRiEFNeNhRinTgfgfgfNeRiRiNhNhRiRiRiRiNhRiRiNehFhFhFRiEFUexpxpxpKgxpxpxpxpKgxpxpxpxpxpxpxpAUAUAUxpxpnOUeUeeyuG
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUeOQUeUeOQOQxpxpxpxpxpEFEFEFEFEFZWEFEFEFEFRiRiNhRiEFRiRiEFRiNeNeSyRiRiRiRiNeRiRiNhRiRiRiRiNhRiNhNhNeRiRiRiEFxpKgKYKYAUxpxprzxpAUKgxpKgKgxpxpKgxpxpxpDPDPxpxpUeeyey
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuUenananaJtOQxpKgxpxpxpEFEFguEFEFZWEFEFEFEFEFguioEFtZMjRitZEFEFguEFguguEFRiRiNeNeRiRiEFguguNhNhNhRiNhNeNhelAZxpxpxpxpAUKgUexpxpxpcZxpKgxpxpnOOQxpKYxpKgOQUeUeUeeyey
+EuEutWEuEuEuEuEuEuOQOQEuEuEuOQOQOQapapUenaKgnanaOQrRxpAUxpxpEFEFguEFEFsXEFEFEFEFxuNhRiFcgfRiRiRiFcRiBfEFEFEFEFEFEFRiNeEFEFEFEFguRiRiRiRiRiNeRiRiEFxpxpxpxpxpxpPOxpKgxpxpAUAUuOxpxpUemkmkmkvMOQKgwZUeeyey
+EuEuEuEuEuEuEuOQOQXgKgKgOvEuKgXgXgnanaKgEuKgKgnamBxpxpxpAUxpEFxsNhRiNhRiRiRiRiEFRiRiCMCMgfgfgfRiRiRiRiguEFEFEFEFEFRiNeEFEFEFEFguEFguEFEFEFAZEFEFguUexpxpxpxpxpUexpxpKgKgxpxpxpxpxpUerRxpxpxpxpKgIjUeeyey
+EuEuEuEuEuEuOQXgXgKgEuKgOvOvKgOQKgKgKgEuEuKgUeUeUexpKgxpuOxpgixsNeRiRiNhNhRiRigiRieMRihFhFRiRiRiNhNhRiguguEFguRiRiRiRiRiNhEFEFEFbiRiRiRiRiRiRiCCguUeUeOQxpxpxpEBKgxpvkxpxpxpxpKgKgsJxpxplHWBooKgwZUeuGey
+EuEuEuEuEuEuOQKgXgOQEuOQOQUeUeKgUeEuEuEunaKgUeKgKgKgKgxpKgxpEFxsRiNeRiNeRiNhRiEFtXRiRiRiRiRiRiRiRiRiylguEFEFEFNhRiRiCMRiRiguguEFRiNeNeRiNeRiNhRiguEuEuOQOQOQUeUeKgxpUeUexpxpUexpxpocEGxpxpAUAUKgSEUeuGey
+EuEuEuEuEuEuEuKgKgEuOQEuEuEufYEuEuUeUeUeUeUeUeKgxpxpxpKgKgxpEFEFEFEFEFEFEFEFEFEFEFEFEFNpRiNhRiNhNpEFEFEFRiNhNhNhhFhFCMCMhFRiRiRiNeNhRihFRiRiRiRiguEuEuEuEuEuEuUexpOQOQdlxpVsUexpxpUexpKgUeeEUeUeUeUeeyey
+EuEuEuEuEuEuEuKgOvEuOQEuEuEuEuEuEuEuEuUexpxpxpxpxpxpxpxpxpxpEFEFEFEFEFEFEFEFEFEFRiNhRiEFRiRiRiNhguRiRiRiRiRiRiRiRiRihFCMNhRiRiRiNeNhRiRihFhFRiNhEFEuEuEueyKkKkUeKNxpxpAUxpxpsJxpxpwWxpxpOQfKYCfKEAUeeyey
+EuEuEuEuEuEuUeKgxpEuKgUeUeUeUeUeEuEuEuUeUeUePcxpUeUeUeUeUesJwnwnwnwnwnwnwnwnwnsXxsRiNhNhNhRiRiRiRiRiRiGzNhRiRiRiRiRiRiRiNhEFEFEFRiRiRiNhNhNhNhNhEFEuEuEueyeyeyUexpwFxpuOKgTTUeAUxpUevkxpOQfKfKYCfKUeeyey
+EuEuEuEuEuEuUeKgEuEuKgKgKgKgKgUeEuEuEuEuEuUeAUxpOQUeUeUeUeUeUeUewnUeUeUeUeUeUeEFbinTRiguNhRiNeNeguRiCCEFEFEFEFRiRiRiRiRiRiEFEuEFmqRiRiNeNeRiRiGyEFEuEuEueyeyeyUeUeUeUexpKaZGUexpxpUeUeUeUeEASkfKfKUeeyey
+EuEuEuEuEuEuUeEuEuxpxpKgbnbnKgUeEuEuEuEuEuUeAUxpOQUeUeUeUeUeUeOQwnUeUeUeUeUeUeEFguguEFEFRiRiNeEFEFEFEFEFEFEFEFEFEFEFAZEFEFEFEuguguguRiRiguguguEFEFEuEuEuEuEueyeyeyeyUeUeUeUeUeUeUeUeeyeyUeUeUefKUeUeeyey
+EuEuEuEuEuEuUexpxpEuKgKgbnbnbnUeEuEuEuEuEuUexpxpUeUeUeUeUeUeUeOQwnUeUeUeUeUeUeUeUeOQOQEFRiRiNeRiEFEFEFEFLzLzLzEFEFEFZWEFEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyKkKkKkKkKkKkeyKkKkeyeyuGfKEuEueyeyey
+EuEuEuEuEuEuOQXgEuDmUeUebnbnbnUeUeOQUeEtUeUexpxpUeUeUeUeUeUeUeOQwnUeUeUeUeUeUeUeUeUeUeEFQvRiNefWsXZWZWZWLKLKLzZWZWZWZWEFEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyeyeyeyeyeyeyeyEuEuEueyeyEuEuEueyeyey
+EuEuEuEuEuEuOQXgEuEuEubnUeUeUeqMxpxpxpxpxpxpxpxpsJwnwnwnwnwnwnwnUBwnwnwnwnwnwnwnwnUeUeEFRihFRiRiEFEFEFEFLKVCLKEFEFEFEFEFEuEuEuEuTHTHTHEuEuEuEuEuEuEuEuEuEuEuEuEueyeyeyeyEueyeyeyEuEuEuEueyeyUAEueyeyeyey
+EuEuEuEuEuEuujXgEuEubnbnEuEuEusJxpKYKYDPxpxpxpxpUeUeOQOQOQUeUeUeUeEFguguguEFEFEFAZEFEFEFRihFRioJEFEFEFEFEFEFEFEFEFEFEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyeyeyEueyeyeyeyeyEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuKgnaEubnLXbnbnbnOQqMxpxpxpKYKYKYxpxpUeUeUeUeUeUeUeUeUeEFRiNeNeNeNeFcQNRiRiRiRiRiRioJoJoJoJRiFcRiRiRiRiEFEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuKgEunananaYHbnbnOQEuUeEtUeUePcxpUeUeUeUeUeUeUeUeUeUeUeEFRihFRihnRiNhNhNhRiRiRiRiRiRiRiRiRiNhNhRiRiRiRiXxEuEuTHEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEufoEuEuEuEu
+EuEuEuEuEuEuEuEuEuKgKgOQUeOQWiUeEuUeUeUebnbnUeUeUeUeEuEuEuEuEuEuEuEFRiRiEFEFRialalalalRiEFguEFRialalalalNhEFEFRiRiXxEuEuEuTHTHEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuKgbnbnnanaOQEuEuEuEuEuUebnbnbnbnbnbnbnUeEuEuEuEuEuEuEuEFbiRiRiRiRihFhFhFNhxTEFEFEFbiRihFhFRiNhRiRiRiCCEFEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuUeUeKgKgKgUeUeKgEuKgEuOQbnbnEuEuEunaEuEuEuEuEuEuEuEuEuEFRiRiEFEFRiRiRihFhFNhRiRiRiRiRiRiRiRiRiEFEFRiRiEFEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuUeKgKgKgKgKgOQEuEuEuOQEuKgbnbnbnnaEuEuEuEuEueyeyeyEuEFEFEFEFEFANRiRiRiRiRiEFEFEFRiRiRiRiANRiEFEFEFEFEFEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuUeKgKgEuKgOQOQbnOQOQEuEubnKgKgbnEuEuEuEuEueyeyeyeyGmGmGmGmEFEFFyEFEFFyEFEFNlEFEFFyEFEFEFFyEFWnWnWnWnEuEuEuEuEuEueyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuKgKgKgKgKgKgKgbnbnuOKgKgKgEuEuEuEuEueykykykykykykyeyEuGmgKGmGmgKGmGmGmGmGmgKGmGmGmgKeyeyEueyeyeyEuEuEuEuEueyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEulFapOQOQEuEuKgbnEuEubnbnbnnaUeEuEuEueykykyGWGWGWGWGmGmGmNlGmGmNlGmGmGmNlNlNlGmGmGmNlGmGmeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuOQOQOQUeUeEuEuEuEuUeUeUeeyeyeyeykykyGWGWGWGWGmNlNlNlNlNlNlGmGmGmNlNlNlGmGmGmNlNlGmkyGWGWkykykykyeyeyeyeyeyeyeyeyeyeyEueyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyeyeykyGWGWGWGWDLGmAhyINlNlNlGmGmGmGmyIyINlNlNlNlNlyIyIQyGWGWGWkyYFYFeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukykykykykykyGWGWGWGWDLDLDLGmyIGmGmGmpzpzeyeyyIyIyIAhyIyIyIQyQyGWGWGWGWkykyeyeyeyeyeyeyeyeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukykyGWGWGWGWGWVRGWGWkyGWGWkykypzpzpzpzpzpzeyeykyGWGWGWGWGWGWQyGWGWGWGWkykykykyYFYFkykyYFYFYFYFkyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukykykykykykykyGWGWGWkyGWpzpzpzpzpzpzpzpzpzeyeykyGWGWGWGWGWGWkykykykykykykykykyGWGWGWGWGWGWGWGWGWeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukykykykykykykykykykykyGWpzpzpzpzpzpzpzpzpzeyeykykykyGWkyGWGWGWkykykykykykykyGWGWGWGWGWGWGWGWGWYFeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukykykykykykykykykykykykypzpzpzdEpzpzpzpzpzdEeykykykykykykykykykykykykykykykykyGWGWGWGWGWGWGWGWYFeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyeyeyeykyGWGWNuGWkykykyGWGWkykypzeyeydEdEdEqvdEdEdEeykykykykykykykykykykykykykykykykyGWGWGWGWGWGWGWYFYFeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyeykykyGWGWGWGWGWGWGWGWGWGWkykykyeyeydEpzpzpzpzpzpzeykykyefefefefefefefefefkyGWkykyGWGWGWYFkykyGWGWYFkyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyDNDNkykyGWGWGWGWkyGWYFYFYFkykykykyeyeydEpzpzpzpzpzpzeyeyeyeyeycbcbcbcbrqcbcbkykyGWGWGWGWYFAxAxBbGWGWGWeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyDNDNkykykykykyGWkykykykykyYFkykykykykypzpzpzpzpzpzpzeyeyeyeyeyeyeycbjIjItgppkykykyYFYFYFkyppppcbcbswcbcbjIjIjIjIjIeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyDNeyYFkykykykyGWkykykykykykykykykykykypzpzpzpzeyeyeyppppppppppppppcbjIjIjIAxDNeyppppppcbppppppppcbjIjItgjIjIjIjIjIeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyDNDNYFkykykykyGWkykykykykykykykyYFYFpzpzpzpzcQppppppjIjItgjIjIjIjIjIjIjIppAxppppcbcbjItgjIjIjIcbcbjIjIjIjIjIjIjIjIeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyeyYFkyGWGWGWGWGWGWGWGWGWkykykykyYFpzpzpzpzpzppjIjIjIjIjIjIjIjIjIjIjIjIRHjIcbcbcbjIjIjIjIjIjIjIjIjIjIjIjIjIppppppeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeyeykykyGWGWGWGWGWGWGWGWGWkykykykyYFpzpzpzpzpzppzNjIjIjIjIjIjIjIjIjIjIjIRHjIjIjIjIjIjIjIjIjIjIjIjIjIcbppppppppeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEueyeyeyEuEuEuEuEuEuEuEuEuEuEueyeyeykykykyGWkykyGWGWGWGWGWYFkykyYFYFpzpzpzpzpzswjIjIjIjIjIcbcbcbjIcbcbcbcbppppppcbjIjIgsgsjIgsgsjIjIcbeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEueyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuJzJzJzeyeykykyGWkyGWGWGWGWGWGWGWGWGWGWpzpzpzpzpzppjIjIjIjIeyeyeycbjIjIjIjIcbDNeyDNcbjIhwzBhShShSzBmYjIcbeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEueyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeykykyGWGWGWGWGWGWkyGWGWGWGWGWpzpzpzpzppjIjIeyeyeyeyeycbjIjIjIyDcbeyeyeycbcbcbcbhShShScbcbcbcbeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeykykyGWGWGWGWGWGWGWGWGWGWGWGWGWGWGWDNeyDNDNDNeyeyeyeycbjIjIjIjIcbeyeyeyeyeyDNcbjIhSjIcbeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGeyeyeyeyeyeyuGuGEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeykyGWkyGWGWGWGWkyGWGWGWGWGWGWGWGWGWeyeyeyeyDNeyeyeyeycbcbcbcbcbcbeyEuEuEueyDNcbjIhSjIcbeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeykykykykykykykykykyGWGWGWGWGWGWGWGWeyeyeyeyeyDNDNDNDNeyeyeyeyEuEuEuEuEuEueyeyAxVXppVXppeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGeyeyeyeyuGuGeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuGWGWkykyGWkykyGWGWGWGWGWGWGWGWGWGWEuEuEuEueyeyeyeyeyuGuGuGuGEuEuEuEuEuEuEuEuxWVXppVXxWEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeykykykykyYFYFkyYFkyYFkykyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuCAEuEuxWVXxWVXxWEuEuCAEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEueyeykykykykykykykykykyYFYFYFDNeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuxWxWeTxWxWDZffDZxWxWeTxWxWEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGeyeyeyeyeyeyeyuGEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuDNDNeyDNDNDNDNDNeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuzLpNsjvQwzgwkzxdkzgwPuvQsjpNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGeyeyeyeyeyeyeyuGEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuohohzLohohohohCDXExrUNxKbsbsbsbsbsxKUNxrXEEVohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeyeyuGeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuohlwUNUNUNUNUNUNKqUNzXCiEsGnUNzXHTCiGnUNKqUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeyeyuGeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSIfAkAkAkIfkSkSEuEuEuEuEuEuEuEuEuEuohUNUNUNUNUNLPUNKqUNUNakUNKqKqKqakUNUNUNKqUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSiuiuiuiuiuiuiuiukSEuEuEuEuEuEuEuEuEuohUNUNohohohohqzbsxrLYCiCiGnakzXCiPyPRxrbsGYohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGuGeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSiuiuiuiufFiuiuiuiuiukSEuEuEuEuEuEuEuEuohUNUNohEuEuohbsbsUNzUUNUNUNUNUNUNUNUNUNkXbsohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGuGeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSiuiukSkSkSkSkSEzDviukSkSkSkSAkAkAkkSkSohADUNdKohohohohohohohohJkzLohohohohJkohohohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EueyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSIfkSDviukSkSkSkSiuiuiuiudsiuRARARARARARAiudNUNUNUNUNohEuEuEuEuohUNUNUNohEuohdNUNUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EueyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSRARAnkiuiudsiukSkSiuiuiuiuiuiuRAkSkSoFkSkSiuUNUNUNUNUNohEuEuohohohUNUNUNohdKohUNUNUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSEzkSkSkSkSEuEuEuEukSRARARAiuiuiuiukSkSiuiuiuiuiuiuRAkSZfiuZfkSiuUNUNUNUNUNohEuohohUNdNUNUNUNdNUNUNUNUNUNUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukcSDZfdsiuhbhbkSkSdIkSLMRARARAiuiuiuiukSkSkSkSkSIfkSkSkSkSitiuitkSkSohohohzLohohEuohUNUNUNSiUNUNUNUNUNohohohohohohUTEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukckckKkKZfZfZfrarathiuiuiuthiuiuiuiuiuiuiukSkSiuiudsiuiuZfkSktydiuydInkSQJUNdNUNUNohohohlwUNUNUNUNSiUNUNCrohprjKJadNohUTEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEukckckKmZTjSArarararakSkSIfkSkSiuiuiuiuiuiuiuiuiuiuiuiuiuiuZfZfZfZfZfZfZfZfQJUNUNUNUNUNUNUNUNSiUNSiUNUNUNSiUNJkUNJapruTohUTEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukckckKkKZfZfZfrarathiuiuiuthiuiuiuiuiuiuiukfiuiuiuiuiuiuZfnVZfZfZfZfZfnVQJUNUNUNUNUNLPUNUNUNUNUNUNSiUNUNCrohuTJajKUNohUTEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukcSDZffFiuhbhbkSkSdIkSkSRARARAiuiuiuiukSkSiuiuiuiuiuZfkSarUriuUriakSQJUNUNUNUNohohohlwUNUNSiUNUNUNUNUNohohohohohohUTEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSEzkSkSkSkSEuEuEuEukSRARARAiuiuiuiukSkSkSkSkSIfkSkSkSkSitiuitkSkSohohohohohohUeohUNUNUNUNzUUNUNUNUNUNUNUNUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSRARAlbiufFiuiukSkSYqiuiuvjiuWFdskSZfiuZfkSdsWFiuvjiuiuFuUeohJkohohohohohohJkohohohohohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSkSIfkShhkSkSkSkSkSUJyiOiuWiuiuYRkSkShhkSkSYRiuiuuWOiyiBiUeUewnUeEuEuEuohUNUNUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSiuiuiukSEuEukSkSkSkSkSKdZfdAkSRkZfbykSdAZfKdkSkSkSkSUeUewnUeEuEuEuohUNUNCrohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSIfkSkSkSEukSiuiuiukSEuEuYOYOYOYOkSOHiuYRIfZfzlZfIfYRiuGCkSEuEuEuEuUewnUeEuEuEuohUNUNUNAqEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSiuiudsiuiukSkSiuiuiukSkSkSkSkSkSkSkSkSvjkSvKZfKdZfvKkSvjkSkSohohohohohJkohohdKohohlwUNUNAqEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSiuiuiuiuiukSkSiuiuBikSjsvcRARAvciRkSRkZfZfZfZfZfZfZfZfZfbykSUNUNUNUNUNUNUNUNUNUNdNUNUNUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuAkiuiuiuiuiuiuiuiuiuiukSUJIARARAIAiuvjZfahkSkSkShhkSkSkSahZfhhUNUNUNUNUNUNUNUNUNUNUNUNUNUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuAkiuiuiuiuiukSkSiuiuiukSAWiuRARAiuqPkSiFkSkSdsWFZfWFdskSkSiFkSUNUNUNzUUNUNUNUNUNUNUNUNUNohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSiuiufFiuiukSkSkSkSkSkSkSkSXlXlkSkSkSZfgJkSkJJOkJJOkJkSgJZfkSohohohohAqAqAqohohohohohohEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSkSIfkSkSkSEuEuEuEuEuEuEuEuEuEuEuEukSAWjOkSiuiuZfiuiukSFhqPkSEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEukSkSkSkSkSXlXlXlkSkSkSkSkSEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+EueyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyuGeyeyeyEuEueyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGuGuGeyeyeyeyeyeyEuEueyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGuGuGeyeyeyuGeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGuGeynHeyegeynHeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeyljlLkpRYSZeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyXAHPUSUSUSHPXAeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+uGeyqyHPfzHPRPHPqyeyeyeyeyuGuGuGeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyXAHPUSUSUSHPXAeyeyeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeylJKvCLnIlPeyeyeyeyeyeyeyeyeyeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeyeyeypoeyeyeyeyeyeyeyeyeyeyeyEueyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyeyeyeyeyeyeyeyeyeyeyeyuGuGuGeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+eyZIuGeyeyeyeyuGuGuGuGuGuGuGuGeyeyEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEuEu
+"}
